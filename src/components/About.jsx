@@ -17,7 +17,7 @@ const About = () => {
          </p>
             <br/>
             <p className='text-xl'>
-         With a love for all things design in the related fields.
+         With a love for all things design in the related fields. yes yes yes
             
         </p>
     </div>
