@@ -13,12 +13,11 @@ const About = () => {
                 </p>
         </div>
         <p className="text-xl mt-20">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem iusto blanditiis sapiente voluptates a recusandae mollitia temporibus odio officia error, excepturi, esse laudantium. Sit, aspernatur minima. Ducimus delectus reprehenderit ipsam?
-            </p>
+         A self taught graphics designer, videographer and Frontend Developer who was born and raaised in Nairobi, Kenya. 
+         </p>
             <br/>
             <p className='text-xl'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi in facilis dignissimos sed omnis. Eos ipsam suscipit fugiat dicta qui? Maxime nam repellat laudantium ad facilis reiciendis nemo ducimus quae.
-
+         With a love for all things design in the related fields.
             
         </p>
     </div>
