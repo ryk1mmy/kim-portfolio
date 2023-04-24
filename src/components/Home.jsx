@@ -18,7 +18,7 @@ const Home = () => {
           <p className="text-gray-500 py-4 max-w-md">
          
           A self taught graphics designer, videographer and Frontend Developer
-           who was born and raaised in Nairobi, Kenya. 
+          born and raaised in Nairobi, Kenya. 
            
           </p>
 
