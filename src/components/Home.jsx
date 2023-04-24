@@ -16,10 +16,10 @@ const Home = () => {
         Developer / Designer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          I am a freelancer in Nairobi, Kenya dealing with all things design 
-            in the field. 
-            I have experience in motion graphics along with building 
-            and designing web applicatios in React, Tailwind and Next JS. 
+         
+          A self taught graphics designer, videographer and Frontend Developer
+           who was born and raaised in Nairobi, Kenya. 
+           
           </p>
 
 

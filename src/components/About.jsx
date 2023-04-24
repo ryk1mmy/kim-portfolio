@@ -13,11 +13,13 @@ const About = () => {
                 </p>
         </div>
         <p className="text-xl mt-20">
-         A self taught graphics designer, videographer and Frontend Developer who was born and raaised in Nairobi, Kenya. 
+        As a seasoned graphics designer, videographer, and frontend developer, I have spent years honing my skills and expertise in creating visually appealing and user-friendly digital experiences.
+         With an eye for design and a deep understanding of the latest industry trends and technologies, I am dedicated to delivering high-quality and innovative solutions that help businesses achieve their goals.
          </p>
             <br/>
             <p className='text-xl'>
-         With a love for all things design in the related fields. yes yes yes
+            My proficiency in using Tailwind CSS and React allows me to create dynamic and responsive designs that are optimized for all devices and screen sizes. Whether you need a simple website or a complex web application, I have the skills and experience to bring your ideas to life. From wireframing and prototyping to final design and development, 
+            I am committed to delivering solutions that exceed your expectations and help your business thrive in the digital world. With my passion for design and development, I am confident that I can help you create a powerful online presence that stands out from the competition.
             
         </p>
     </div>
