@@ -1,8 +1,8 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
+import Camara from "../assets/portfolio/Camara.png";
 import installNode from "../assets/portfolio/installNode.jpg";
-import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
+import logo from "../assets/portfolio/mm.png";
+import reactParallax from "../assets/portfolio/elimu.png";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
@@ -10,7 +10,7 @@ const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: Camara,
     },
     {
       id: 2,
@@ -18,7 +18,7 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: navbar,
+      src: logo,
     },
     {
       id: 4,
